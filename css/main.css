@@ -63,8 +63,13 @@ footer {
     background-color: darksalmon;
   }
 
+  .col-3 {
+    width: 50%;
+  }
+
   #column-1 {
     background-color: darkorange;
+    width: 100%;
   }
 
   #column-2 {
@@ -88,8 +93,13 @@ footer {
     background-color: crimson;
   }
 
+  .col-3 {
+    width: 33.33%;
+  }
+
   #column-1 {
     background-color: deeppink;
+    width: 33.33%;
   }
 
   #column-2 {
